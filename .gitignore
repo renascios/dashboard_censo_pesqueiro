@@ -1,0 +1,27 @@
+# Ambientes virtuais
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# VS Code
+.vscode/
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Sistema operacional
+Thumbs.db
+.DS_Store
+
+# Dados não-publicáveis
+data/*.xlsx
+data/*.xls
+data/*.csv
+
+# Variáveis de ambiente / segredos
+.env
+.env.*
