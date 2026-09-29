@@ -1,6 +1,6 @@
 # Dashboard Censo Pesqueiro
 
-Dashboard interativo para análise e visualização dos dados do censo pesqueiro da Zona Costeira Amazônica, desenvolvido para apoiar a leitura, comparação e acompanhamento de indicadores pesqueiros por RESEX, município, mês e espécie.
+Dashboard interativo para análise e visualização dos dados do censo pesqueiro da Zona Costeira Amazônica, desenvolvido para apoiar a leitura, comparação e acompanhamento de indicadores pesqueiros por RESEX, município, mês e espécie. O projeto foi feito para o Observatório da Costa Amazônica (OCA), e atualmente é utilizado por este.
 
 ## Visão geral
 
@@ -151,7 +151,7 @@ Após iniciar a aplicação, o usuário pode:
 5. comparar o desempenho por espécie em diferentes períodos;
 6. ajustar o controle de quantidade de espécies no gráfico temporal para explorar tendências.
 
-Os gráficos são interativos e permitem análise detalhada por hover, com leitura de valores e variações ao longo do tempo.
+Os gráficos are interativos e permitem análise detalhada por hover, com leitura de valores e variações ao longo do tempo.
 
 ## Personalização e manutenção
 
